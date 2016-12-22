@@ -24,7 +24,7 @@ public class Main {
 
 
         IntStream
-                .rangeClosed(0, 5)
+                .rangeClosed(0, 99)
                 .boxed()
                 .map(i -> HEADHUNTER_URL_TEMPLATE + i)
                 .map(Main::getDocument)
