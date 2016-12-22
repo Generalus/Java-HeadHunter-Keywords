@@ -25,8 +25,7 @@ public class Main {
 
         IntStream
                 .rangeClosed(0, 99)
-                .boxed()
-                .map(i -> HEADHUNTER_URL_TEMPLATE + i)
+                .mapToObj(i -> HEADHUNTER_URL_TEMPLATE + i)
                 .map(Main::getDocument)
                 .filter(Optional::isPresent)
                 .map(Optional::get)
@@ -34,16 +33,22 @@ public class Main {
                 .flatMap(Collection::stream)
                 .map(d -> d.attr("href"))
                 .distinct()
+
+                // стрим всех уникальных ссылок на вакансии
                 .map(Main::getDocument)
                 .filter(Optional::isPresent)
                 .map(Optional::get)
-                .map(Main::getEntryUrl)
+                .map(Main::getEntryDescription)
+
+                // стрим всех текстов из вакансий
                 .filter(Main::isRussianText)
                 .map(DESCRIPTION_SPLIT_PATTERN::split)
                 .flatMap(Arrays::stream)
                 .map(String::trim)
                 .filter(s -> s.length() > 1)
                 .map(String::toLowerCase)
+
+                // стрим всех ключевых слов: подсчитаем их количество и выведем на экран
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
                 .entrySet()
                 .stream()
@@ -73,10 +78,9 @@ public class Main {
         return (text.length() - rusLettersCount) / (text.length() * 1.) < 0.5;
     }
 
-    private static String getEntryUrl(Document document) {
-        return DESCRIPTION_REPLACE_PATTERN.matcher(
-                document.getElementsByClass("vacancy__description").first().html()
-        ).replaceAll("");
+    private static String getEntryDescription(Document document) {
+        String description = document.getElementsByClass("vacancy__description").first().html();
+        return DESCRIPTION_REPLACE_PATTERN.matcher(description).replaceAll("");
     }
 
 }
