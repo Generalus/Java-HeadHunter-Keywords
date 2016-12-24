@@ -19,9 +19,9 @@ public class Main {
 
     private static final Pattern DESCRIPTION_SPLIT_PATTERN = Pattern.compile("[^A-Za-z0-9 ]|( and )|( or )");
     private static final Pattern DESCRIPTION_REPLACE_PATTERN = Pattern.compile("</?.*?>");
+    private static final Pattern KEYWORD_NUMBER_PATTERN = Pattern.compile("\\d+");
 
     public static void main(String[] args) {
-
 
         IntStream
                 .rangeClosed(0, 99)
@@ -46,9 +46,10 @@ public class Main {
                 .flatMap(Arrays::stream)
                 .map(String::trim)
                 .filter(s -> s.length() > 1)
+                .filter(s -> !KEYWORD_NUMBER_PATTERN.matcher(s).matches())
                 .map(String::toLowerCase)
 
-                // стрим всех ключевых слов: подсчитаем их количество и выведем на экран
+                // стрим ключевых слов (как одиночных, так и составных): подсчитаем их количество и выведем на экран
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
                 .entrySet()
                 .stream()
@@ -59,6 +60,8 @@ public class Main {
 
         System.out.println("\nIO errors: " + IO_ERRORS_COUNT);
     }
+
+
 
     private static Optional<Document> getDocument(String url){
         Optional<Document> document = Optional.empty();
