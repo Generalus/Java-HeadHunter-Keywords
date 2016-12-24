@@ -1,887 +1,830 @@
-java - 1855
-sql - 748
-web - 469
-javascript - 460
-git - 451
-spring - 440
-hibernate - 411
-00 - 366
+java - 1839
+sql - 773
+web - 452
+javascript - 451
+git - 450
+spring - 434
+hibernate - 405
 oracle - 362
-html - 312
-css - 289
-linux - 284
-maven - 273
-it - 234
-xml - 231
-postgresql - 213
-android - 213
-10 - 193
-svn - 186
-rest - 185
-jdbc - 184
-j2ee - 181
-jira - 174
-spring framework - 167
+html - 315
+css - 291
+linux - 291
+maven - 268
+xml - 242
+android - 231
+it - 220
+postgresql - 212
+svn - 182
+jdbc - 179
+j2ee - 179
+rest - 179
+js - 171
+jira - 170
 jquery - 165
-jpa - 163
-jms - 161
-js - 160
-mysql - 157
-soap - 157
-agile - 155
-java ee - 153
-18 - 149
-junit - 145
-tomcat - 143
-jsp - 139
-http - 138
-scrum - 131
-jax - 131
-java se - 130
+spring framework - 162
+jms - 160
+jpa - 160
+java ee - 155
+soap - 154
+mysql - 153
+agile - 149
+tomcat - 148
+junit - 142
+jsp - 138
+java se - 133
+scrum - 132
+jax - 132
+pl - 130
 python - 130
-100 - 129
-ejb - 120
-end - 115
-pl - 114
-jenkins - 113
+http - 125
+ejb - 118
+end - 113
+json - 112
 angularjs - 108
-nosql - 107
-teamcity - 107
-json - 105
-mvc - 102
-html5 - 102
-gwt - 102
-gradle - 96
-unit - 94
-api - 92
-unix - 91
-intermediate - 90
+jenkins - 107
+net - 106
+nosql - 104
+html5 - 103
+gwt - 101
+teamcity - 101
+php - 98
+mvc - 97
+jboss - 91
+unit - 90
+gradle - 89
 ajax - 89
-jboss - 88
-php - 88
+api - 89
 ios - 88
-ws - 85
-net - 84
-ant - 84
-servlets - 83
-core - 82
-scala - 81
-xslt - 77
-java core - 77
-19 - 74
-24 - 72
-code review - 72
-front - 72
-orm - 71
-etc - 70
-30 - 69
-amp - 68
-mongodb - 67
+ws - 86
+scala - 85
+ant - 85
+servlets - 84
+unix - 83
+intermediate - 82
+xslt - 81
+core - 79
+code review - 73
+etc - 72
+orm - 72
+java core - 67
+front - 67
 jsf - 67
-glassfish - 65
-backend - 64
-java 8 - 64
-collections - 61
+glassfish - 66
+mongodb - 64
+amp - 63
+mercurial - 61
 jetty - 60
-mercurial - 60
-tdd - 58
-mssql - 57
-confluence - 57
+ui - 60
+java 8 - 60
+collections - 59
+groovy - 57
 ms sql - 57
-hadoop - 57
-core java - 56
-back - 54
-ci - 54
-weblogic - 54
-ui - 54
-groovy - 54
-20 - 53
-selenium - 53
-security - 53
-docker - 53
-javaee - 52
-xsd - 51
-eastbanc technologies - 49
-postgres - 49
-intellij idea - 48
-erp - 48
-microsoft - 47
+javaee - 56
+backend - 56
+docker - 56
+tdd - 56
+mssql - 55
+eastbanc technologies - 54
+core java - 54
+xsd - 54
+confluence - 52
+erp - 52
+back - 51
+weblogic - 51
+postgres - 50
+ci - 49
+security - 49
+hadoop - 49
+intellij idea - 47
 rs - 47
-web services - 47
-frontend - 46
-react - 46
-crm - 45
-eclipse - 45
-enterprise - 44
-apache tomcat - 44
-continuous integration - 44
-extjs - 44
-angular - 43
-com - 43
-kanban - 43
-redis - 42
-multithreading - 42
-spring mvc - 42
-soa - 42
-bpm - 41
+frontend - 47
+microsoft - 46
+web services - 46
+angular - 44
+eclipse - 44
+apache tomcat - 43
+multithreading - 43
+go - 43
+react - 43
+enterprise - 42
+kanban - 41
+com - 40
+crm - 40
+github - 40
+data - 40
+continuous integration - 40
+spring mvc - 40
+extjs - 40
 java 1 - 40
-spring boot - 40
 j2se - 40
-esb - 39
-data - 39
-40 - 38
-oracle db - 38
-ibm - 38
-sap - 38
-50 - 37
-go - 37
-ru - 37
-jee - 37
-11 - 36
-akka - 36
-servlet - 35
-uml - 35
-devops - 35
-28 - 35
-bash - 34
-bi - 34
-tcp - 34
-bootstrap - 33
-github - 33
-spark - 33
-ibm websphere - 33
-jaxb - 32
-rabbitmq - 32
-qa - 32
-windows - 32
+soa - 40
+oracle db - 39
+selenium - 39
+redis - 38
+bootstrap - 37
+esb - 37
+spring boot - 37
+asp - 37
+ibm - 36
+css3 - 35
+servlet - 34
+uml - 34
+devops - 34
+akka - 34
+sap - 34
+windows - 33
+bpm - 33
+ms sql server - 32
 java 7 - 32
-android sdk - 32
-dom - 31
-typescript - 31
+jee - 32
+struts - 31
+bi - 31
+ip - 31
 oop - 31
-java developer - 31
-ms sql server - 31
-12 - 30
-struts - 30
-di - 30
-wsdl - 30
-ide - 30
-css3 - 30
-senior java developer - 29
+rest api - 31
+bash - 30
+jaxb - 30
+spark - 30
+java script - 30
+ibm websphere - 30
+apache - 30
+wildfly - 29
+wsdl - 29
 bigdata - 29
-ruby - 29
-cassandra - 29
-asp - 29
-generics - 29
-rest api - 29
-wildfly - 28
+ide - 29
+swing - 29
+android sdk - 29
+jta - 29
+testng - 29
+tcp - 29
 zkoss - 28
-17 - 28
-elasticsearch - 28
-ip - 28
-java script - 28
-swing - 28
-jta - 28
-testng - 28
-senior - 27
-nix - 27
+reactjs - 28
+dom - 28
+di - 28
+ru - 28
+java developer - 28
+ruby - 28
+concurrency - 28
+generics - 28
 at consulting - 27
-xpath - 27
-integration - 27
+rabbitmq - 27
 vaadin - 27
-concurrency - 27
 postgre - 27
-15 - 26
-ioc - 26
+senior - 26
+nix - 26
+node - 26
+gridgain - 26
+integration - 26
+senior java developer - 26
+cassandra - 26
 liquibase - 25
-reactjs - 25
-09 - 25
-350 - 25
-ee - 25
-mybatis - 25
-5000 - 25
-mockito - 25
-hbase - 25
-server - 24
-14 - 24
-middle - 24
-hr - 24
-gof - 24
-gridgain - 24
-hybris - 24
-aws - 24
-delphi - 24
+server - 25
+nginx - 25
+typescript - 25
+xpath - 25
+rpc - 25
+highload - 25
+aws - 25
+delphi - 25
+redmine - 24
+ioc - 24
 cms - 23
-16 - 23
 big data - 23
-2001 - 23
-rpc - 23
-javase - 22
-highload - 22
-000 - 22
-objective - 22
-1000 - 21
-nginx - 21
+elasticsearch - 23
+javase - 23
+mybatis - 23
+gof - 23
+mockito - 23
+hbase - 23
+bss - 23
+middle - 22
+ee - 22
+qa - 22
+1c - 21
 axis - 21
-apache camel - 21
-oracle pl - 21
-redmine - 21
-play - 20
-www - 20
-legacy - 20
-node - 20
+apache camel - 20
+oracle pl - 20
+apache ignite - 20
+hr - 20
+https - 20
 xp - 20
-angular js - 20
-restful - 20
-framework - 20
-2014 - 20
 freemarker - 20
 oracle weblogic - 20
-bss - 20
-apache - 20
-review - 20
 ibm websphere mq - 19
-1c - 19
-restful api - 19
+www - 19
 maven3 - 19
-kafka - 19
+google play - 19
+framework - 19
 osgi - 19
 websphere - 19
+commerce - 19
 apache cxf - 19
 jvm - 19
+livetex - 19
+review - 19
 cdi - 18
-less - 18
 spring security - 18
-spock - 18
-emc - 18
-apache ignite - 18
-https - 18
-code - 18
-google play - 18
-bamboo - 18
+services - 18
+play - 18
+legacy - 18
+angular js - 18
+restful - 18
 perl - 18
-2013 - 18
-commerce - 18
-open source - 18
-jmm - 18
-sas - 18
-solid - 17
-ore java 1 - 17
+hybris - 18
+less - 17
 ansible - 17
-services - 17
-300 - 17
-13 - 17
+spock - 17
+jmeter - 17
 informatica - 17
-net mvc - 17
 java collections - 17
-ibm was - 17
-gui - 17
-aop - 17
+webpack - 17
+jboss as - 17
+code - 17
+s3 - 17
+kafka - 17
 boot - 17
 java se 7 - 17
+sas - 17
+objective - 17
+ore java 1 - 16
 threads - 16
-jmeter - 16
-android studio - 16
-exceptions - 16
+emc - 16
+amazon aws - 16
+ibm was - 16
 team lead - 16
-jboss as - 16
-ux - 16
+design patterns - 16
 zk - 16
-continuous delivery - 16
+gui - 16
 emc documentum - 16
-2011 - 16
-free - 16
-swift - 16
-grails - 16
-120 - 16
+bamboo - 16
+aop - 16
+jni - 16
+apache maven - 16
+side - 16
 saas - 16
-rxjava - 15
-cd - 15
-spring core - 15
-mq - 15
-design patterns - 15
-machine learning - 15
-hazelcast - 15
-batch - 15
-apache maven - 15
-side - 15
+solid - 15
+exceptions - 15
+continuous delivery - 15
+junior - 15
+the washington post - 15
+microstrategy - 15
+jmm - 15
 idea - 15
-hive - 15
+centos - 14
 avaya - 14
+test - 14
+mail - 14
 websockets - 14
+db - 14
+spring core - 14
 jasper reports - 14
-no - 14
-s3 - 14
-junior - 14
-atlassian - 14
-microstrategy - 14
-material design - 14
-cloud - 14
+mq - 14
+ux - 14
+batch - 14
+grails - 14
 java io - 14
-25 - 13
-70 - 13
-jackson - 13
-win - 13
-django - 13
+schlumberger - 13
+nasdaq - 13
+knockoutjs - 13
+elb - 13
+opengl - 13
+cd - 13
+us news - 13
+testrail - 13
 ejb 3 - 13
-io - 13
+no - 13
 gson - 13
-the washington post - 13
+s7 airlines - 13
+machine learning - 13
+hazelcast - 13
+imf - 13
 websphere application server - 13
-jndi - 13
+newsweek - 13
+open source - 13
 sax - 13
-bdd - 13
+bfm - 13
 spring integration - 13
-ssh - 13
-mocks - 13
-tfs - 12
-200 - 12
+redux - 12
 senior java - 12
-stash - 12
-centos - 12
 velocity - 12
-schlumberger - 12
-dsl - 12
-23 - 12
-45 - 12
+wicket - 12
 spring web mvc - 12
-nasdaq - 12
 vcs - 12
-knockoutjs - 12
+jackson - 12
+vagrant - 12
 hudson - 12
 websocket - 12
-webpack - 12
-rdbms - 12
-us news - 12
-db - 12
-salesforce - 12
+net mvc - 12
+grid - 12
+django - 12
+webservices - 12
+javafx - 12
+se - 12
 subversion - 12
-s7 airlines - 12
-naumen - 12
-mobile - 12
-elama - 12
-2009 - 12
-itransition - 12
-imf - 12
-newsweek - 12
-jse - 12
-bfm - 12
+b2b - 12
+free - 12
+gulp - 12
+jndi - 12
+atlassian - 12
+playstation - 12
 messaging - 12
 liferay - 12
-headhunter - 12
+mocks - 12
 primefaces - 11
-concurrent - 11
-mail - 11
-wicket - 11
-ecm - 11
+dsl - 11
+deep learning - 11
+azure - 11
+facebook - 11
+android studio - 11
+oracle database - 11
 thymeleaf - 11
-webservices - 11
-antlr - 11
-testrail - 11
+rdbms - 11
 gc - 11
-se - 11
-util - 11
 tradingview - 11
 play framework - 11
-700 - 11
-acronis - 11
-b2b - 11
+pascal - 11
+tele2 - 11
 shell - 11
 cloud formation - 11
+jse - 11
 orm hibernate - 11
+ssh - 11
 activemq - 11
 tapestry - 11
+hive - 11
 java frameworks - 10
 sass - 10
-spring 4 - 10
-1991 - 10
+stash - 10
+kotlin - 10
 opensource - 10
-facebook - 10
-elb - 10
-vagrant - 10
-oracle database - 10
+restful api - 10
+objective c - 10
+ecm - 10
+app store - 10
+dynamodb - 10
 apache commons - 10
 jaxp - 10
 powermock - 10
-crucible - 10
-grid - 10
-javafx - 10
-amazon aws - 10
 neo4j - 10
+digital - 10
+io - 10
 ecommerce - 10
-amazon - 10
-apache kafka - 10
 hippo cms - 10
-600 - 10
-service - 10
+azoft - 10
+salesforce - 10
+naumen - 10
 websphere mq - 10
 firebird - 10
 jquery ui - 10
-80000 - 10
-comet - 10
+time - 10
+memory data fabric - 10
 cloudfront - 10
 solr - 10
-2015 - 10
 fisheye - 10
-playstation - 10
 ibm websphere portal - 10
 java se 8 - 10
-jni - 10
 java8 - 10
 brightspot - 10
+bdd - 10
 bpel - 10
-ssl - 10
-1 000 000 - 10
+frameworks - 10
 eclipselink - 10
-amazon web services - 9
 solaris - 9
+spring 4 - 9
 cti - 9
-memcached - 9
-polymer - 9
-udp - 9
-mac - 9
-open - 9
-400 - 9
-etl - 9
+concurrent - 9
+apple - 9
+es6 - 9
+backbone - 9
+crucible - 9
+npm - 9
+antlr - 9
+rxjava - 9
 intech - 9
-digital - 9
+wpf - 9
+desktop - 9
 jbpm - 9
-activity - 9
 youtrack - 9
-azoft - 9
-activiti - 9
-wrike - 9
-junior java developer - 9
+util - 9
+mobile - 9
+android api 2 - 9
 erlang - 9
-yii - 9
-kameleoon - 9
-2000 - 9
-online - 9
-gulp - 9
-tele2 - 9
-jersey - 9
-sms - 9
+chef - 9
+comet - 9
+itransition - 9
+b2c - 9
+ecwid - 9
+production - 9
+case - 9
+fintech - 9
+sdk - 9
 oracle rdbms - 9
-jetbrains - 9
-frameworks - 9
+sso - 9
+headhunter - 9
+1 000 000 - 9
 rabbit mq - 9
+google apps - 9
 high load - 9
+tfs - 8
+saml - 8
 struts2 - 8
-performance review - 8
-250 - 8
-cvs - 8
 jaxws - 8
-angular2 - 8
-1994 - 8
-lsr - 8
-test - 8
-kotlin - 8
-angular 2 - 8
-60 - 8
-80 - 8
+jasmine - 8
+db2 - 8
+mac - 8
+open - 8
 agile java development - 8
-cisco - 8
-app store - 8
+ndk - 8
+etl - 8
+grunt - 8
 nio - 8
-backbone - 8
+flash - 8
+nlp - 8
 test driven development - 8
-spring data - 8
-500 - 8
-jstl - 8
-email - 8
+android ndk - 8
+in - 8
+transaction - 8
+pm - 8
 andersen - 8
 vk - 8
-xsl - 8
-voip - 8
-pre - 8
-memory data fabric - 8
+activiti - 8
+elama - 8
 jpa 2 - 8
-chef - 8
 lucene - 8
-2016 - 8
-spray - 8
-b2c - 8
 100 000 - 8
 pine script - 8
+excel - 8
+plsql - 8
 techstars - 8
 70 000 - 8
+epam - 8
+cloud - 8
 job - 8
-sdk - 8
-data mining - 8
-upper - 8
-130 - 8
+jersey - 8
 sap hybris - 8
-guice - 8
-kpi - 8
 nodejs - 7
 service desk - 7
 spring 3 - 7
-soapui - 7
-scorocode - 7
 vmware - 7
+memcached - 7
+cvs - 7
 source - 7
 cxf - 7
+polymer - 7
+unit tests - 7
 ejb3 - 7
-db2 - 7
-lua - 7
-800 000 - 7
+lsr - 7
+map - 7
 thread - 7
-400 000 - 7
-22 - 7
-55 - 7
-apple - 7
-95 - 7
 jaas - 7
-mvp - 7
 transact - 7
 guidewire - 7
+cordova - 7
+bitbucket - 7
 sqlite - 7
-hdfs - 7
-ember - 7
-android ndk - 7
+win - 7
+selenium webdriver - 7
+spring data - 7
 h2 - 7
-desktop - 7
-in - 7
-ozon - 7
-transaction - 7
+amazon - 7
+activity - 7
+apache kafka - 7
 struts 1 - 7
+scada - 7
+forex - 7
+push - 7
+wiki - 7
+mapreduce - 7
 postgesql - 7
+junior java developer - 7
+xsl - 7
 tomee plus - 7
+pki - 7
 ticket soft - 7
 redhat jboss - 7
 10 000 - 7
 websphere as - 7
-ibm db2 - 7
-2012 - 7
-2003 - 7
-sam solutions - 7
-open space - 7
+yii - 7
+machine - 7
+spray - 7
 entity framework - 7
-excel - 7
-jboss fuse - 7
-plsql - 7
 adf - 7
-production - 7
 apache cassandra - 7
+slack - 7
 retail - 7
 oracle 12c - 7
-case - 7
+material design - 7
+ldap - 7
 puppet - 7
+kiss - 7
 javadoc - 7
+oebs - 7
+data mining - 7
 sphinx - 7
-macos - 7
+itsm - 7
+developer - 7
+sms - 7
+high - 7
+level - 7
+spa - 7
+upper - 7
+jetbrains - 7
 netbeans - 7
-ruby on rails - 7
-server side - 7
+swt - 7
+amazon web services - 6
 isimplebank 2 - 6
 apache hadoop - 6
-tls - 6
-intel - 6
+top - 6
 rails - 6
 exactpro - 6
-flux - 6
 corba - 6
 sourcing - 6
-servlet api - 6
+data science - 6
+computer science - 6
 concurrent data structures - 6
-netty - 6
+full - 6
 jsf 2 - 6
 twitter - 6
-philip morris - 6
-java backend - 6
 gismart - 6
 middle java developer - 6
-backbonejs - 6
-make - 6
 structure - 6
-google - 6
+gridgain in - 6
 lient - 6
 greenfield project - 6
 oauth - 6
-xml schema - 6
-sockets - 6
 tomcat 6 - 6
 java enterprise - 6
 8 000 - 6
-swisscom mobile - 6
 teamcity rest api - 6
-cordova - 6
-flash - 6
-bitbucket - 6
-java hybris - 6
-npm - 6
 mainsoft - 6
-opengl - 6
+wcf - 6
+ember - 6
+team city - 6
+b1 - 6
 synchronization primitives - 6
-elastic search - 6
-systems - 6
 heap dump - 6
-selenium webdriver - 6
-wpf - 6
-fxdd - 6
-gt - 6
-ussd - 6
+120 000 - 6
+jasperreports - 6
 apache spark - 6
-tieto - 6
-on - 6
-pm - 6
+jstl - 6
 enbisys - 6
-selenide - 6
+up - 6
 learning - 6
-wp - 6
-google web toolkit - 6
-push - 6
-sicap - 6
-sharepoint - 6
-mapreduce - 6
+iphone - 6
 ore java - 6
-ibm integration bus - 6
+stock options - 6
 openway group - 6
 ibm filenet - 6
-650 - 6
+service - 6
+voip - 6
 flyway - 6
-time - 6
+pre - 6
 hibernate 4 - 6
+80 000 - 6
 sax api - 6
-travel - 6
-storaenso - 6
-appium - 6
-sony - 6
+dhtml - 6
+ibm db2 - 6
 eastbanctech - 6
+sam solutions - 6
+silicon valley - 6
+open space - 6
 java senior developer - 6
+apache wicket - 6
+microsoft visual studio - 6
 deadlock handling - 6
 collection - 6
 basic java packages - 6
 team building events - 6
-pascal - 6
+iis - 6
 ubuntu - 6
-slack - 6
-oracle 11g - 6
+hibernate orm - 6
+jboss fuse - 6
+rds - 6
+swift - 6
+zabbix - 6
+script - 6
 rmi - 6
 rnd - 6
 fronted framework - 6
-xamarin - 6
-epam - 6
 jir - 6
+android api - 6
+tibco - 6
 database - 6
-kiss - 6
+google maps - 6
 restapi - 6
-developer - 6
-level - 6
 gitlab - 6
+transact sql - 6
 storm - 6
-amqp - 6
+guice - 6
+server side - 6
 servlet containers - 6
+kpi - 6
 aven - 6
 macbook pro - 5
-redux - 5
-rubymine - 5
-actionscript - 5
+apache solr - 5
 60 000 - 5
-top - 5
 atlassian jira - 5
 cpu - 5
+performance review - 5
 jpql - 5
 csp - 5
-ooad - 5
 oracle esb - 5
-computer science - 5
-jasmine - 5
+servlet api - 5
+oracle reports - 5
 dojo - 5
 apache velocity - 5
-unit tests - 5
-grid gain - 5
+postgresql 9 - 5
+philip morris - 5
+java backend - 5
 lc europe - 5
 karaf - 5
 xml parsers - 5
 7 ee - 5
-map - 5
 mct - 5
-mdm - 5
-oriented - 5
 dsp - 5
 jvm internals - 5
-27 - 5
 sqldeveloper - 5
-35 - 5
-3d - 5
-mongo - 5
-vas - 5
-openstack - 5
+ec2 - 5
 writing - 5
-beans - 5
-gridgain in - 5
-soon i will teach - 5
+google - 5
+cisco - 5
 octopus deploy - 5
 sciener - 5
-es6 - 5
-akka streams - 5
+xml schema - 5
+sockets - 5
+kerberos - 5
+swisscom mobile - 5
 intervale - 5
-grunt - 5
 700 it - 5
 naumen service desk - 5
+90 000 - 5
 research - 5
+java hybris - 5
+hdfs - 5
 openid - 5
 kendo ui - 5
-team city - 5
-b1 - 5
+ipad - 5
 fix - 5
-adobe - 5
-120 000 - 5
+elastic search - 5
+systems - 5
+microsoft sql server - 5
 active mq - 5
-scalajs - 5
-jasperreports - 5
-ftp - 5
+fxdd - 5
+gt - 5
+ussd - 5
 wwf - 5
-usability web - 5
+tieto - 5
+on - 5
+oo - 5
 oracle database 11g - 5
 mcpd - 5
-up - 5
+rbac - 5
+ood - 5
+vb - 5
+wp - 5
 log4j - 5
+google web toolkit - 5
+sicap - 5
 tools - 5
-dart - 5
-web api - 5
 wcf rest - 5
-120000 - 5
-stock options - 5
+ibm integration bus - 5
 c naumen service desk - 5
 dscm - 5
 dokuwiki - 5
-softline - 5
-pki - 5
-couchbase - 5
 greenhopper - 5
-yes - 5
 webservice - 5
-dhtml - 5
+storaenso - 5
 databases - 5
-abap - 5
-2017 - 5
-workflow - 5
+abac - 5
+moscow - 5
+scalatest - 5
+online - 5
 mvvm - 5
-apache wicket - 5
-do you speak english - 5
+idm - 5
 tops consulting - 5
-hibernate orm - 5
 multithreaded - 5
 java 6 - 5
+iot - 5
 richfaces - 5
-zabbix - 5
-script - 5
-ms office - 5
+oracle 11g - 5
 aix - 5
-android 4 - 5
-oracle sql - 5
+real - 5
 java ee 7 - 5
 bootstrap 3 - 5
-jcf - 5
+xamarin - 5
+bower - 5
 apache lucene - 5
 cardpay - 5
 billing - 5
-tibco - 5
-fintech - 5
+slick - 5
+canvas - 5
+xacml - 5
+asterisk - 5
 ms sql server 2012 - 5
 net 4 - 5
-pl sql - 5
-hr manager - 5
-itsm - 5
-usability - 5
 reduce - 5
+sla - 5
 sql server - 5
 correqts - 5
-spa - 5
+ssl - 5
 java concurrency - 5
-sso - 5
+stl - 5
 pgsql - 5
 bpmn - 5
-140 - 5
-150 - 5
-swt - 5
+cocoaheadsmoscow - 5
 regular - 5
+amqp - 5
 lead - 5
 concurrent programming - 5
 springframework - 5
-saml - 4
-apache solr - 4
+c sharp - 5
+lotus notes - 4
+rubymine - 4
+cloud computing - 4
 murano software 13 - 4
-cryptopro - 4
+intel - 4
 lab - 4
-8500 - 4
-cto - 4
+e2e - 4
+mastercard - 4
 java servlet - 4
+ooad - 4
 reflection - 4
-product owner - 4
-1 arch - 4
-postgresql 9 - 4
-java spring - 4
-dev - 4
+data grid - 4
+domino - 4
+udp - 4
 inventain - 4
 grasp - 4
 dataart - 4
 apache servicemix - 4
-the global outsourcing 100 - 4
+grid gain - 4
+load - 4
 lazada - 4
+backbonejs - 4
 high availability - 4
-ebay - 4
-inc 5000 - 4
-21 - 4
-31 - 4
-34 - 4
-impala - 4
-vba - 4
+oriented - 4
+make - 4
+wordpress - 4
+project - 4
+3d - 4
+mongo - 4
+vas - 4
 word - 4
+foundation - 4
 identity - 4
+beans - 4
 game insight - 4
 access management - 4
+edi - 4
+mvp - 4
+zookeeper - 4
 version - 4
-dynamodb - 4
+os x - 4
+hadoop mapreduce - 4
 tomcat 7 - 4
 jboss seam - 4
-ndk - 4
+akka streams - 4
 tradeshift - 4
 oracle coherence - 4
 message oriented middleware - 4
 scalability - 4
+xhtml - 4
 reactive programming - 4
-wcf - 4
+tornado - 4
 ibm websphere application server - 4
-software 500 - 4
-opencv - 4
 b2 - 4
+service grid - 4
 by - 4
-senior developer - 4
-24x7 - 4
-15 000 - 4
-obj - 4
+plesk - 4
+ca - 4
+scalajs - 4
 vert - 4
 frp - 4
-alfresco - 4
-qt - 4
+ftp - 4
+usability web - 4
 starter - 4
-protobuf - 4
-ood - 4
+elastic - 4
+to - 4
 kaspi - 4
 demis group - 4
 procurement - 4
 dependency injection - 4
 reading - 4
-forex - 4
 spring cloud - 4
 geb - 4
+sharepoint - 4
 oracle service bus - 4
-wiki - 4
-line - 4
+ui patterns - 4
+web api - 4
 gis - 4
 gmt - 4
-gps - 4
-prisma - 4
-snmp - 4
 russia - 4
-regexp - 4
-uikit - 4
-xxx - 4
-android api 2 - 4
+camel - 4
+apache software foundation - 4
+softline - 4
+neolab - 4
+pig - 4
 design activities - 4
+php 5 - 4
 design - 4
 heroku - 4
 sencha extjs - 4
@@ -889,453 +832,417 @@ springdata - 4
 web service - 4
 ibm mq - 4
 hp loadrunner - 4
-espresso - 4
-coffeescript - 4
-google adwords - 4
 code reviews - 4
 relocation bonus - 4
 multi - 4
-openflow - 4
 point - 4
-zk framework - 4
-moscow - 4
+abap - 4
 java enterprise edition - 4
-2010 - 4
-2008 - 4
-2002 - 4
-scalatest - 4
-global services 100 - 4
-task - 4
+nunit - 4
+yui - 4
+appium - 4
+streaming - 4
+workflow - 4
+openspace - 4
 nexus - 4
-silicon valley - 4
-ms azure - 4
-3 000 - 4
-dodo is - 4
+40 000 - 4
+numpy - 4
 thrift - 4
+babel - 4
 clearcase - 4
-microsoft dynamics ax - 4
+compute grid - 4
 net mvc 5 - 4
-iis - 4
-loadrunner - 4
-search tools integration - 4
+foster city - 4
 getintent - 4
 iso - 4
 ivy - 4
-ibm bpm - 4
+ms office - 4
+android 4 - 4
+oracle sql - 4
 java ee 6 - 4
 java ee 1 - 4
 visual studio 2012 - 4
-bower - 4
-rup - 4
-sync - 4
-1700 - 4
-burger king - 4
-guava - 4
+jcf - 4
 coffee like - 4
-slick - 4
-android api - 4
-canvas - 4
 semrush - 4
 java se 6 - 4
-java se 1 - 4
-senior android - 4
+itil - 4
 freebsd - 4
+hadoop accelerator - 4
 visa - 4
+pl sql - 4
+chrome - 4
+gruntjs - 4
 postgres sql - 4
-deloitte fast 500 - 4
 join - 4
 philips - 4
-high - 4
+promo digital group - 4
+sns - 4
 control - 4
-pizza hut - 4
 competentum - 4
-stl - 4
 eastbanctechnologies - 4
 resteasy - 4
 11g - 4
-kfc - 4
-bug - 4
-180 - 4
-cocoaheadsmoscow - 4
+ruby on rails - 4
 xml over http - 4
-appcode - 4
-matlab - 4
 45 000 - 4
 scalable framework - 4
 ibm integraton bus - 3
 teamlead java - 3
 eclipse swt - 3
-jdk 8 - 3
 skype - 3
 interbase - 3
 resume - 3
+kvm - 3
+react native - 3
 jsp custom tags - 3
-cloud computing - 3
+partner services - 3
 weld - 3
 xerox - 3
 ms dynamics crm - 3
-ec 6 - 3
+cryptopro - 3
+actionscript - 3
 phonegap - 3
 flow - 3
 swiss technologies ag - 3
 widgets - 3
 ibm web sphere - 3
+scipy - 3
 javaee7 - 3
 pentaho bi - 3
-ms visio - 3
+soapui - 3
+agile scrum - 3
 ocsico - 3
-mastercard - 3
-wireshark - 3
-60000 - 3
-1905 - 3
 kaspersky - 3
-data science - 3
 oracle database enterprise edition - 3
-oracle reports - 3
-full - 3
+karma - 3
+product owner - 3
 toplink - 3
+netty - 3
 postgreesql - 3
-mqtt - 3
-data grid - 3
+angular2 - 3
 cleverdata - 3
-primary - 3
 loc - 3
-1993 - 3
-cnews - 3
+lua - 3
+stack - 3
+java spring - 3
+dev - 3
 ejb stateless - 3
 dfc - 3
-domain - 3
 ibm maximo - 3
 toyota - 3
 knockout - 3
 windows phone - 3
+relax - 3
 birt - 3
+the global outsourcing 100 - 3
 lean design - 3
 selenium wedriver - 3
-bnp paribas - 3
+tiles - 3
+citeck - 3
 stand - 3
 hessian - 3
 dql - 3
 java teamlead - 3
-usd - 3
+usb - 3
+vbscript - 3
+mdm - 3
+inc 5000 - 3
 java 2 se - 3
 jasperreport - 3
-26 - 3
+angular 2 - 3
+checklist - 3
 stax - 3
-wordpress - 3
-project - 3
-64 - 3
+ionic - 3
 xpath json - 3
 transactsql - 3
 thucydides - 3
-viper - 3
+impala - 3
+vba - 3
+openstack - 3
 lenovo - 3
-foundation - 3
-objective c - 3
-msf - 3
-ios sdk - 3
+nagios - 3
+ecs - 3
 ios developer - 3
-edi - 3
-kibana - 3
-zookeeper - 3
+microsoft iis - 3
 cocos - 3
 build tool - 3
+citeck ecos - 3
 spring aop - 3
-winbook - 3
+scss - 3
+kaggle - 3
 vod - 3
 career - 3
-release - 3
-os x - 3
-hadoop mapreduce - 3
 ms project - 3
 sun j2ee patterns - 3
 business intelligence - 3
-auchan - 3
 myfaces - 3
+bitrix - 3
 tigre de cristal - 3
 00 5 - 3
 adidas - 3
 communication technology innovations - 3
 slf4j - 3
-90 000 - 3
 ps fifa - 3
-xbox - 3
-nlp - 3
+high traffic apps - 3
 enterprise level - 3
 string - 3
-xhtml - 3
-richrelevance - 3
+plan - 3
 wdk - 3
-autolayout - 3
-tornado - 3
-end developer - 3
-hybris commerce developer - 3
 java servlets - 3
+jsf2 - 3
+alfresco ecm - 3
+visual studio - 3
+software 500 - 3
 jasper - 3
 id finance - 3
 mule esb - 3
 payara - 3
-service grid - 3
-d3 - 3
+unity gaming - 3
 java 8 se - 3
-30 000 - 3
-microsoft sql server - 3
-ca - 3
+adobe - 3
+24x7 - 3
+15 000 - 3
 en - 3
 pyton - 3
-fw - 3
 gi - 3
+obj - 3
 hg - 3
 id - 3
 rest services - 3
 taskspace - 3
 l5 - 3
 codeswat - 3
-swagger - 3
 restful web services - 3
 unreal engine - 3
-exante - 3
+alfresco - 3
+crystal reports - 3
 appstore - 3
-oo - 3
 openjpa - 3
-smpp - 3
-585 - 3
 qc - 3
 ms reports - 3
 google cloud messaging - 3
 oracle 11 - 3
+selenide - 3
 oriented middleware - 3
 st - 3
-business process management - 3
-elastic - 3
+protobuf - 3
 oracle specialized - 3
-renault - 3
-life - 3
-mesos - 3
+vr - 3
 streams - 3
 oracle application server - 3
 out - 3
-virtualbox - 3
+firefox - 3
 development - 3
 like - 3
 digital health - 3
+line - 3
 appdynamics - 3
 enterprise integration patterns - 3
 usabilityweb - 3
-javascript frameworks - 3
-40000 - 3
-camel - 3
-retrofit - 3
-apache software foundation - 3
+gps - 3
 git flow - 3
-neolab - 3
-pig - 3
-gxt - 3
+uikit - 3
+fast report - 3
 unity - 3
 7 000 - 3
-php 5 - 3
 welcome - 3
-ps4 - 3
+couchbase - 3
+espresso - 3
+coffeescript - 3
+google adwords - 3
 pro - 3
-threejs - 3
+internet of things - 3
+webview - 3
 netcracker technology corp - 3
 oracle linux - 3
-citrix - 3
 cucumber - 3
 isimplelab - 3
-driven design - 3
-process - 3
 coredata - 3
+biglion - 3
+zk framework - 3
 java memory model - 3
-underscore - 3
 ibm message broker - 3
 mirapolis - 3
+kameleoon - 3
 xcode - 3
-2007 - 3
+wearables - 3
 openstreetmap - 3
-geekbrains - 3
-qhd - 3
+sony - 3
 webix - 3
-streaming - 3
 tandem university - 3
 actionpay - 3
+pandas - 3
+virtual reality - 3
 vmware vsphere - 3
-40 000 - 3
-socket - 3
+global services 100 - 3
+task - 3
 bi suite - 3
-worldbluinc - 3
+3 000 - 3
+moscow django meetup - 3
 jsonp - 3
-microsoft visual studio - 3
 sap hcm - 3
 middleware - 3
-compute grid - 3
-zip - 3
+asyncio - 3
 db sql - 3
 inversion of control - 3
 threading - 3
+loadrunner - 3
 space - 3
+search tools integration - 3
 durandal - 3
 laravel - 3
+teamlead - 3
 yii2 - 3
-foster city - 3
-inc - 3
 performance - 3
 oracle siebel crm - 3
-custom js - 3
+route53 - 3
 platinum partner - 3
-htmlunit - 3
-nike - 3
-rds - 3
-post - 3
-rfc - 3
+ado - 3
 ivr - 3
 message - 3
 ria - 3
-testing - 3
-full time - 3
-cmake - 3
-hybris core developer - 3
 set retail - 3
-mcdonalds - 3
 panorama - 3
+amd - 3
 ror - 3
 camunda - 3
-50 000 - 3
 english - 3
 jav - 3
-unity3d - 3
+business suite - 3
+atomic - 3
 as3 - 3
-paypal - 3
 jdk - 3
 mantis - 3
+sync - 3
+guava - 3
 c jpa - 3
 playtox - 3
+licensing - 3
+oozie - 3
+java se 1 - 3
 nasa - 3
-forbes - 3
-ldap - 3
+jmx - 3
 finance it - 3
 marketplace - 3
 garbagecollector - 3
 data driven testing - 3
 san - 3
-microservices architecture - 3
+senior android - 3
 smartvista - 3
-asterisk - 3
-hadoop accelerator - 3
-spring frameworks - 3
+net 2003 - 3
+apalon - 3
 crm hes - 3
-oebs - 3
-chrome - 3
-dagger2 - 3
 golang - 3
-senior android developer - 3
 libgdx - 3
 client - 3
 posix - 3
 views - 3
 maven 3 - 3
 runawfe - 3
-sla - 3
+usability - 3
+deloitte fast 500 - 3
+macos - 3
+composer - 3
+bmw - 3
+photoshop - 3
+sqs - 3
 stateful - 3
 heineken - 3
 new frontier group - 3
+oracle e - 3
 8 500 - 3
-secondary - 3
+ommonjs - 3
 netflix - 3
+svg - 3
+bug - 3
 c java ee - 3
 web sockets - 3
 bug tracking - 3
-kif - 3
-openwrt - 3
 twitter bootstrap - 3
 junit tests - 3
+java message service - 3
 sap erp - 3
-modified jquery - 3
 oracle forms - 3
 oracle grid infrastructure - 3
 aerospike - 3
-apache activemq - 3
-hootsuite - 3
-m2m - 3
+matlab - 3
 tandem - 3
 2 9 - 3
 postgres 9 - 3
-cloud platform ui team - 3
-fragment - 3
+integration tests - 2
 assertj - 2
+scalamock - 2
 testlink - 2
 object - 2
+jdk 8 - 2
 master data management - 2
-serenity bdd - 2
 middle java - 2
 policy - 2
-kvm - 2
+googleplay - 2
+zend framework - 2
 openidm - 2
 10 day off - 2
-plarium - 2
 tld - 2
 sharding - 2
-tmp - 2
-testcomplete - 2
+dbs etc - 2
 oracle glassfish - 2
 ide eclipse - 2
-scipy - 2
 product - 2
 governator - 2
 gosu - 2
 winapi - 2
-210 - 2
 paas - 2
-crn - 2
+flux - 2
 java mvc - 2
 d3js - 2
 team lead java - 2
 cluster - 2
 lead java developer - 2
-karma - 2
+cto - 2
 team - 2
 junior java - 2
 wayray - 2
 5 day off - 2
 kubernetes - 2
+tarantool - 2
 tech - 2
-app annie - 2
 aspectj - 2
 start - 2
-diginetica - 2
 disney - 2
 html5 ria - 2
 jsf 1 - 2
+sigtran - 2
 bamboo ci - 2
 lms - 2
 redhat jboss fuse - 2
 best development practicies - 2
+2 000 000 - 2
 enter - 2
-angular1 - 2
-artifactory - 2
-prpc - 2
-1998 - 2
-1997 - 2
-1992 - 2
-dynamics ax - 2
-assembler x86 - 2
-prof - 2
+anylogic - 2
+primary - 2
+tensorflow - 2
+1 arch - 2
 mongo db - 2
 weblogic 12c - 2
+itexus - 2
+cordova html5 mobile applications - 2
+qualcomm - 2
 extremeoptimization - 2
 150 000 - 2
-ssis - 2
+launcher - 2
 bss script - 2
+titanium - 2
 alm works - 2
 ubisoft - 2
 ddd - 2
 ddl - 2
-best buy - 2
-stack - 2
-intellij - 2
+verizon - 2
+cnews - 2
 backend java developer - 2
 cuba - 2
 openam - 2
+domain - 2
 pull request - 2
 ranorex - 2
 presale - 2
@@ -1343,512 +1250,477 @@ mina - 2
 inapps - 2
 cuba studio - 2
 visual c - 2
-ssrs - 2
 adobe experience manager - 2
-ethernet - 2
 drupal - 2
-load - 2
-misc - 2
-creative mobile - 2
-relax - 2
 dml - 2
-production ready - 2
-tiles - 2
-ms excel - 2
+ibm watson - 2
 lock - 2
-sidenis - 2
 gerrit code review - 2
 20 000 - 2
 ehcache - 2
-rhev - 2
 3 500 - 2
 man - 2
-internet retailer - 2
+rhel - 2
 usa - 2
 use - 2
 shared libraries - 2
 microservices - 2
-vbscript - 2
-autotools - 2
 highcharts - 2
 joomla - 2
 dry - 2
 js frameworks - 2
-mdx - 2
 dtd - 2
-01 - 2
 dynatrace - 2
-08 - 2
 ibm websphere message broker - 2
 instagram - 2
 bi publisher - 2
 google guice framework - 2
-microsoft hyper - 2
 mid - 2
 single page application - 2
 data scientist - 2
-core data - 2
-36 - 2
 blizzard - 2
 progress - 2
 oauth2 - 2
 techcrunch - 2
+magicdraw - 2
 3l - 2
 dress code - 2
-4g - 2
-8 000 000 - 2
-ionic - 2
-75 - 2
+ai apis - 2
+devexpress - 2
 jython - 2
 red hat - 2
 coffee script - 2
-94 - 2
-azure - 2
-99 - 2
+aosp - 2
 red hat jboss - 2
-john lewis - 2
-fortis - 2
-ec2 - 2
-cutting - 2
+chatbot - 2
 liferay portal - 2
-2500 - 2
+lotus - 2
+ios sdk - 2
 pentaho - 2
-colvir software solutions - 2
+continues integration - 2
+eda - 2
+oracle responsys - 2
 ibank 2 - 2
-scrumban - 2
 platform - 2
+soon i will teach - 2
 firebird 2 - 2
-async - 2
 swarm - 2
-apache technologies stack - 2
 based os - 2
 eclipse ide - 2
 posgresql - 2
-agile development methodology - 2
 haskell - 2
-full stack - 2
-scss - 2
-jscript - 2
+learn - 2
 riak - 2
 datamatrix - 2
+elk - 2
+winbook - 2
 elt - 2
+tests - 2
 oracle osb - 2
 oracle weblogic server 11g - 2
-software development director - 2
 vpn - 2
+release - 2
 mytarget - 2
 apex - 2
 nas - 2
 divogamesmobile - 2
+es5 - 2
+eastbanc technologies usa - 2
+javascript best practices - 2
 parquet - 2
 london stock exchange group - 2
 postress - 2
 infinispan - 2
-x86 - 2
 francisco - 2
-api gateway - 2
 rest programming - 2
-bitrix - 2
-axelot - 2
 tech lead - 2
-drools - 2
+scikit - 2
 atlassian sdk - 2
 apache poi - 2
-office depot - 2
+spirent - 2
 eclipse rcp - 2
-yandex html elements - 2
-tesco - 2
 enterprise web - 2
-50000 - 2
 graylog - 2
 non - 2
 performance tester - 2
-common best practices - 2
 delivery - 2
 was - 2
 wild fly - 2
-p2p - 2
-window - 2
-ru tv - 2
+futures - 2
+xignite - 2
+richrelevance - 2
 instruments - 2
-powershell - 2
+electron - 2
 qa test automation engineer - 2
+autolayout - 2
 vizor interactive - 2
 solardozor - 2
+end developer - 2
+manual tests - 2
 apache storm - 2
 c web - 2
 oracle db 10 - 2
+hybris commerce developer - 2
 sap srm - 2
 abbyy flexicapture - 2
-jsf2 - 2
-visual studio - 2
 elementary - 2
 sdlc - 2
-sqlite3 - 2
+250 000 - 2
 jboss portal - 2
 mariadb - 2
 visio - 2
+opencv - 2
+java sdk - 2
 gant - 2
 java se6 - 2
 relational mapping - 2
-ai - 2
 javascipt - 2
+documentolog - 2
 raml - 2
 be - 2
 soap programming - 2
 bp - 2
+d3 - 2
 d9 - 2
+30 000 - 2
 wms - 2
+qa automation engineer - 2
 executorservice - 2
-co - 2
 new relic apm - 2
-cs - 2
+senior developer - 2
 ibm websphere as - 2
-pizza day - 2
 patterns - 2
-er - 2
 et - 2
 oracle jdeveloper 11g - 2
-fi - 2
 gerrit - 2
 oam - 2
 sap ag - 2
 atlassian products - 2
 hi - 2
-hp - 2
+gridgain systems - 2
+wss - 2
 context - 2
-mobile commerce - 2
+morgan stanley - 2
 l2 - 2
 jq - 2
-3pb - 2
 kz - 2
 synchronized - 2
-edge - 2
+swagger - 2
 fasten - 2
-crystal reports - 2
+ms - 2
+exante - 2
+freeswitch - 2
+storage - 2
 oim - 2
 iptv - 2
 pa - 2
-pi - 2
 joycraft - 2
 po - 2
 hibernate framework - 2
 web development - 2
+qt - 2
 extjs frameworks - 2
-so - 2
 solar security - 2
-smtp - 2
 ibm esb - 2
 hybernate - 2
-to - 2
-ts - 2
+business process management - 2
+oracle bi publisher - 2
 scand ltd - 2
-wi - 2
-8000 - 2
+naumen sd - 2
+life - 2
 ore - 2
 java server faces - 2
 way4 appserver - 2
 location - 2
 osi - 2
 software - 2
-gcc - 2
+gce - 2
 gcm - 2
-gevent - 2
 voice communication - 2
 xbox 360 - 2
 exist - 2
 lift - 2
-hudson ci - 2
+virtualbox - 2
+hp uft - 2
 telecom - 2
-vanilla js - 2
+smart gwt - 2
 cors - 2
-firefox - 2
 ilnumerics - 2
-ui patterns - 2
-oc4j - 2
-link - 2
 western union - 2
+remote - 2
 netcracker oss - 2
 hybris domain - 2
+sqlalchemy - 2
+resharper - 2
 gnu - 2
-persistence - 2
 noveo - 2
 gpu - 2
-heidisql - 2
 rock band - 2
+javascript frameworks - 2
 ecmascript 5 - 2
-jdbctemplate - 2
+natural language understanding - 2
 samsung - 2
-code style guide - 2
 xss - 2
+alee software - 2
 guice di - 2
 salesforce lead developer - 2
 firm1c - 2
 rest web services - 2
+retrofit - 2
 architecture reviews - 2
-linq to entities - 2
-brand finance - 2
+regexp - 2
+native - 2
+tomson reuters - 2
 web dynpro for java - 2
-ngrx - 2
+mocha - 2
+gxt - 2
 ms hyper - 2
 epam systems - 2
 gym - 2
 front end - 2
-walmart - 2
+javascript internals - 2
 pms - 2
+google machine learning - 2
+125 000 - 2
+stackoverflow - 2
 ansi sql - 2
 java api - 2
 glassfish server - 2
 poc - 2
 sap netweaver - 2
 poi - 2
-serverless approach - 2
+morningstar - 2
 best practices - 2
-postresql - 2
 arbon - 2
+postresql - 2
 http 1 - 2
-logstash - 2
+ps4 - 2
 open spaces - 2
+cms 1 - 2
 swim - 2
 soap web services - 2
-pegasystems - 2
+companymedia 3 - 2
+yes - 2
 moneygram - 2
+infrastructure - 2
 hp diagnostic - 2
 jmock - 2
-webview - 2
 way4 - 2
 standalone - 2
-1500 - 2
 switchyard - 2
 iiot - 2
-80 000 - 2
 smart - 2
 softwareag - 2
 iaas - 2
+smali - 2
 javamail - 2
 webmethods - 2
+credit flow - 2
 group - 2
+hisilicon kirin - 2
 tree - 2
 java rmi - 2
 dojo 1 - 2
-gartner - 2
+driven design - 2
+process - 2
 c apache tomcat - 2
+linux preferred - 2
 knockout js - 2
 c orm - 2
 kpbs - 2
-mmvm - 2
-scrumm - 2
+winforms - 2
+underscore - 2
 orm hornetq - 2
 backend development - 2
-2006 - 2
-2005 - 2
-softeq - 2
 bitbucket server - 2
 css 3 - 2
-html 5 - 2
+geekbrains - 2
 tracking - 2
 riverbed - 2
 templates - 2
+qhd - 2
 webtop - 2
-products - 2
 oracle atg - 2
-781 - 2
+webgl - 2
 solution - 2
-twitter 9100 - 2
 design patterns oop - 2
 servlet j2ee - 2
 abbyy sdk - 2
-openspace - 2
 uml2 - 2
+socket - 2
+thomson reuters intelligent tagger - 2
 reflect - 2
-based - 2
+honey hunters management - 2
+do you speak english - 2
+cloud providers - 2
 teamidea - 2
-numpy - 2
 websphere application server 7 - 2
-moscow django meetup - 2
-natural language processing - 2
-hybris enterprise - 2
-symfony 2 - 2
+worldbluinc - 2
+barclays - 2
 scala developer - 2
+cyanogen - 2
 bug tracking system - 2
 apple push notification - 2
-object c - 2
-ediamarkt - 2
-web gui - 2
-jax rs - 2
-jee7 - 2
+debian - 2
 qiwi - 2
+no windows - 2
 enterpise asset management - 2
 olap - 2
 cqrs - 2
+british telecom - 2
 json parsing - 2
+credit suisse - 2
 games - 2
-terrasoft - 2
 front end frameworks - 2
 spar - 2
-entityframework - 2
-net framework c - 2
-continuous delivery processes - 2
-teamlead - 2
+h1b visa - 2
+symfony - 2
+goldman sach - 2
 divo games mobile - 2
 rust - 2
 flextera - 2
-bluetooth - 2
-iot - 2
 analysis services - 2
-aaa - 2
 bwks - 2
+custom js - 2
+htmlunit - 2
 rcp - 2
 fast - 2
 j2me - 2
 acid - 2
+post - 2
 speechpro - 2
 please note that we can only consider candidates holding a valid work permit for russia - 2
 offee points - 2
+continuoss delivery - 2
 haulmont - 2
 hp rum - 2
 orm frameworks - 2
+visual basic - 2
 oracle weblogic 12c - 2
+jest - 2
+testing - 2
+full time - 2
 net core - 2
-hibernate etc - 2
 sonarqube - 2
-unity 3d - 2
-colvir - 2
+hybris core developer - 2
+ibm bpm - 2
+windows server - 2
+edisoft - 2
 alv - 2
 xml rpc - 2
 low latency - 2
-power point - 2
 mock - 2
+agile development - 2
 racker technology corp - 2
 predictive modelling - 2
+crif - 2
 moex - 2
-watchos - 2
-upper intermediate - 2
-apc - 2
-juniper - 2
-atomic - 2
+50 000 - 2
 devim - 2
 load java - 2
-gitflow - 2
 rtb - 2
 meteor - 2
+jetbrains idea - 2
 identity management - 2
-server model - 2
-7000 - 2
 rus - 2
 atl - 2
 yaml - 2
-signalr - 2
-crunch - 2
-mono - 2
 ibm websphere esb - 2
-cnet content solutions - 2
-remoting - 2
-target - 2
+burger king - 2
+awk - 2
 hybris ecommerce platform - 2
+ionic framework - 2
 tibbo - 2
 java messaging service - 2
-xunit - 2
 style - 2
-oozie - 2
+yate - 2
+forbes - 2
 spring portlet mvc - 2
-17 120 - 2
-jmx - 2
-hyper - 2
 postgis - 2
-robot framework - 2
-70000 - 2
-itil - 2
 crossfilter - 2
 miracle - 2
 sbo - 2
-artificial intelligence - 2
 canon - 2
 sca - 2
 suzhou - 2
+java fx - 2
 ide netbeans - 2
-sdn - 2
-java7 - 2
+seo - 2
 xmlbeans - 2
+mac is fine as well - 2
 spring framework stack - 2
-google maps - 2
 framework jquery - 2
 contact - 2
-gruntjs - 2
-vagrant based - 2
-atlassian confluence - 2
+dagger2 - 2
 sencha - 2
-100000 - 2
-webmvc - 2
 trackpad - 2
 faktura - 2
 dms alfresco - 2
 easyrest - 2
+microsoft tfs - 2
 big - 2
 lodash - 2
 tadviser - 2
 sme eshop - 2
 apache active mq - 2
+continious integration - 2
 wincrypto api - 2
 transactions - 2
-ngenix - 2
 integration bus - 2
-akka http - 2
+os linux - 2
 snv - 2
 misys - 2
 voicekey - 2
 auto - 2
 annotations - 2
-bmw - 2
-photoshop - 2
 coregraphics - 2
 box - 2
+ss7 - 2
 application server - 2
+pizza hut - 2
 ssd - 2
 bmc euem - 2
-brm - 2
+secondary - 2
 windows phone 7 - 2
-macos x - 2
+actors - 2
 oracle 9 - 2
-138 - 2
 mpls - 2
-svg - 2
+kfc - 2
 140 000 - 2
-ignite - 2
 express - 2
-152 - 2
 posgress - 2
-fragments - 2
-desk - 2
+restful c - 2
 forgerock - 2
 websphere portal 6 - 2
+kif - 2
 c 10 - 2
-singleton - 2
 rich internet applications - 2
 or other messaging - 2
+pyunit - 2
 intetics - 2
-java message service - 2
 jvisualvm - 2
 qunit - 2
+eastbanc technologies russia - 2
 vipnet - 2
+modified jquery - 2
+upsource - 2
+lean - 2
+twisted - 2
 pentaho report designer - 2
+apache activemq - 2
 the tribez - 2
-memcache - 2
 copenhagen - 2
-qa engineer - 2
 tbo - 2
 hillout zone - 2
-code first - 2
 method reference etc - 1
 apache tapestry - 1
 os centos - 1
 textfields - 1
+halo - 1
+mac os api - 1
 ibm content navigator - 1
-monodevelop - 1
-tez - 1
+android memory management - 1
 droopal - 1
-scalamock - 1
-erp sap - 1
 generatedpropertycontainer - 1
 addison lee http - 1
 jaxb 2 - 1
@@ -1860,62 +1732,57 @@ nosql data modeling - 1
 thomson reuters - 1
 jpeg - 1
 deadlocks - 1
-googleplay - 1
+cfd - 1
 cloud development - 1
-react native - 1
 cft - 1
-integration testing - 1
-zend framework - 1
 selenium 2 - 1
 cgi - 1
 smartfoxserver - 1
+deploy - 1
 imdg - 1
-lotus notes - 1
 windows store - 1
+release management - 1
 moneyman - 1
 openicf - 1
 log n - 1
 apache fop - 1
 5 personal days - 1
-hart - 1
 visual paradigm - 1
 cis - 1
+loc frameworks - 1
+alure - 1
+dual boot linux - 1
 lucene 4 - 1
-javascript fullstack - 1
-1050 - 1
-requirejs - 1
+tls - 1
 tlv - 1
 course management system - 1
 adobe air - 1
 servlets 2 - 1
+naviaddress - 1
 end java - 1
 o technologies - 1
 avro - 1
-cli - 1
+uml diagrams - 1
 spring data mongo - 1
-libreoffice - 1
 forrester - 1
-cmd - 1
+testcomplete - 1
 5 000 - 1
+propel orm - 1
 clojure - 1
 ide intellij idea - 1
 tos - 1
 net mvcms sql server - 1
-start up - 1
 enterprise beans - 1
 intelijidea - 1
 coa - 1
-java2ee - 1
 constraint - 1
 servelets - 1
 activiti bpmn - 1
 linq to sql - 1
-decode - 1
 tqm - 1
 soa based - 1
 cpa - 1
 task tracking - 1
-e2e - 1
 jpos - 1
 cronjobs - 1
 j2ee j2se - 1
@@ -1926,75 +1793,208 @@ spring webservices - 1
 tomcat application server - 1
 javaee6 - 1
 corelocation - 1
-lbs - 1
-playmarket - 1
+walkme - 1
+cql - 1
 kinomania - 1
 android development skills - 1
 actionbar - 1
 activemq artemis - 1
 starteam - 1
+ms visio - 1
+apache flex 4 - 1
 sparkstreaming - 1
 my sql - 1
 python unittest - 1
-perferct - 1
 java application server - 1
-agile scrum - 1
 google play services - 1
 sap netweaver 7 - 1
 csv - 1
 messaging middleware - 1
-guthib - 1
+sql reporting services - 1
+wireshark - 1
 preo - 1
 jee 3 - 1
 jee 5 - 1
+state - 1
+ax microsoftdynamics - 1
 sw engineering - 1
 totalcmd - 1
 ibm webshpere - 1
 epic games - 1
 senior go - 1
-experian - 1
 pack - 1
 java nio - 1
 camunda bpm - 1
-web full stack - 1
-246 - 1
 ui team - 1
 directx - 1
 document - 1
-safekids - 1
 availability - 1
 imsl - 1
-256 - 1
 software dev for automotive - 1
 jconsole - 1
 jexcel api - 1
-aws s3 - 1
 contextmenu - 1
 openlayers - 1
-260 - 1
 java rx - 1
-hiberbnate - 1
+ipod touch - 1
 yagni - 1
-tarantool - 1
 sap webdynpro - 1
 java script frameworks - 1
-ssas - 1
 world class - 1
 worldclass - 1
 membase - 1
 codereview - 1
 develop - 1
 spsr express - 1
-inkscape - 1
 rest web - 1
-windows 7 - 1
 elastic transcoder - 1
-pier 1 tech city - 1
 java ui - 1
 sas institute - 1
+macbook pro retina 16gb ram - 1
 back end java - 1
-es6 solid experience - 1
 microsoft azure - 1
+coca cola - 1
 checkboxes - 1
+diginetica - 1
 microsoft sharepoint - 1
 hamcrest - 1
+microsoft visual studio 2013 - 1
+inapp purchase - 1
+microsoft human interface guidelines - 1
+studio - 1
+disaster recovery - 1
+three - 1
+rest webservices - 1
+decision tree - 1
+openproject - 1
+hp diagnostics - 1
+wildfy - 1
+payment - 1
+hardware - 1
+angular1 - 1
+codefix - 1
+corebluetooth - 1
+red mine - 1
+linux redhat - 1
+leverx international - 1
+apache felix - 1
+task ui - 1
+fuse - 1
+openjdk - 1
+sap mdm - 1
+low - 1
+spring cloud data flow - 1
+align technology - 1
+mybatis orm - 1
+openrtb - 1
+uat - 1
+low level design - 1
+make up - 1
+fusioncharts - 1
+vcas - 1
+bpm 2 - 1
+guardia - 1
+dbi - 1
+spring jquery - 1
+rh ee linux - 1
+ssis - 1
+technical lead - 1
+critical - 1
+winscp - 1
+over ssh - 1
+process builder - 1
+anguilar2 - 1
+0 security - 1
+monetdb - 1
+sling from apache - 1
+single sign - 1
+its partner - 1
+zendesk - 1
+best buy - 1
+ddt - 1
+google apis console - 1
+apach spark - 1
+intellij - 1
+mleib - 1
+team leader - 1
+bug tracker redmine - 1
+spring framework 4 - 1
+ui5 - 1
+lms moodle - 1
+amazon marketplace - 1
+ms visual studio c - 1
+profiling - 1
+3 qa engineers - 1
+team foundation server - 1
+lxc - 1
+uil - 1
+opengles - 1
+project05 - 1
+net web application - 1
+tolerant - 1
+squareup - 1
+impex - 1
+nltk - 1
+full stack developer - 1
+appcompat - 1
+planning meetings - 1
+legac - 1
+ssrs - 1
+club - 1
+plpgsql - 1
+hibernat - 1
+clean code - 1
+radius - 1
+qunat house - 1
+restlet - 1
+bluetooth core framework - 1
+ethernet - 1
+clickhouse - 1
+hsrp - 1
+enterprise java beans - 1
+ios provisioning portal - 1
+c javascript - 1
+elephant games - 1
+training - 1
+apache rewrite rules - 1
+extreme programming - 1
+gprs - 1
+symantec - 1
+misc - 1
+creative mobile - 1
+intetics co - 1
+omnicomm - 1
+oracle support - 1
+bitcoin - 1
+java swing - 1
+mathdotnet - 1
+dmp - 1
+production ready - 1
+dms - 1
+ioccontainers - 1
+c sql - 1
+ms excel - 1
+ratpack - 1
+windows batch scripting - 1
+legacy code - 1
+dns - 1
+soap ui - 1
+badi - 1
+sencha touch - 1
+custis - 1
+sidenis - 1
+upi - 1
+zenimax - 1
+actor model - 1
+winphone - 1
+ups - 1
+snapshot - 1
+idef0 - 1
+c performance - 1
+bnp paribas - 1
+google protobuf - 1
+oracle customer care - 1
+custis frridays - 1
+internet retailer - 1
+lode - 1
+sap basis - 1
